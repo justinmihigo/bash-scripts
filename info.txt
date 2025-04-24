@@ -1,0 +1,111 @@
+
+===== System Information =====
+Hostname: the-enthusiast
+Current User: the-enthusiast
+System Uptime: up 5 hours, 16 minutes
+Date and Time: Thu Apr 24 10:26:31 AM CAT 2025
+
+===== CPU and Memory =====
+Number of CPUs: 8
+CPU Model: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+Total RAM: 6.7Gi
+Free RAM: 1.4Gi
+
+===== Disk & Filesystem =====
+Disk Usage: /dev/sda2        79G   14G   61G  19% /
+/dev/sr0         90M   90M     0 100% /media/the-enthusiast/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/the-enthusiast/Ubuntu 24.04.2 LTS amd64
+Mounted File systems:FSTYPE
+sysfs
+proc
+devtmpfs
+devpts
+tmpfs
+ext4
+securityfs
+tmpfs
+tmpfs
+cgroup2
+pstore
+bpf
+autofs
+hugetlbfs
+mqueue
+debugfs
+tracefs
+fusectl
+configfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+squashfs
+binfmt_misc
+squashfs
+tmpfs
+nsfs
+overlay
+overlay
+nsfs
+overlay
+tmpfs
+tmpfs
+tmpfs
+overlay
+overlay
+overlay
+nsfs
+tmpfs
+tmpfs
+tmpfs
+tmpfs
+overlay
+tmpfs
+tmpfs
+overlay
+tmpfs
+tmpfs
+overlay
+tmpfs
+overlay
+overlay
+cgroup2
+overlay
+overlay
+tmpfs
+overlay
+tmpfs
+nsfs
+nsfs
+overlay
+overlay
+overlay
+tmpfs
+nsfs
+overlay
+tmpfs
+fuse.portal
+fuse.gvfsd-fuse
+iso9660
+iso9660
+nsfs
+/home Usage: 767M	/home
+/var Usage:2.6G	/var
+
+===== Networking =====
+IP Address(es):192.168.136.132 172.17.0.1 10.233.92.0 
+Active Network Interfaces:
+
+Top 5 Processes by CPU and Memory:
+  PID COMMAND         %MEM %CPU
+63545 firefox          8.5  2.0
+ 5412 gnome-shell      4.5  2.7
+ 2421 kube-apiserver   4.0 11.3
+ 1661 Isolated Web Co  3.0  0.4
+62029 gnome-control-c  2.5  0.0
