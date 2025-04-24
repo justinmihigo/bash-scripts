@@ -16,6 +16,11 @@
 - It is hard to complete this in one go there some command you have to test on the side and see there output
 - But during the creation of info.sh we have different variables and functions and color variables we set using ANSI escape characters.
 - The functions that are there is log(), and print_section() that appends color to the text, other are the commands to execute and append to the file called info.txt for full commands check the info.sh
-
+#### Execution
+- Clone the repo 
+- Change the directory it will be bash-scripts ```cd bash-scripts```
+- Grant the permissions to the current user to execute the file using ```sudo chmod u+x info.sh```
+- Run the script using ```./info.sh``` or ```bash info.sh```
+- Check ```info.txt``` to check if info has been saved using ```cat info.txt```
 ### The Key takes
 - I was impressed with the learning about the shell getting to create variables and functions, argument passing, and the coloring and everything, it has helped me to hone my skills in filtering what I want. Using lots of ```grep``` to get patterns I want and ```awk``` to get the column you want even the rows really impressive, also using ```head -n``` was usefull to get the first lines of the output we want. Apart from that commands like free -h that shows you the free space and used one was also great. 
