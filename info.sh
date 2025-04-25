@@ -72,7 +72,7 @@ print_section() {
 		# 4. Networking
 		print_section "Networking"
 		log "IP Address(es):$(hostname -I)"
-		log "Active Network Interfaces:\n$(ip -o link show | awk -F': ''{print $2}')"
+		log "Active Network Interfaces:\n$(ip -o link show | awk -F':' '{print $2}')"
 		log "Top 5 Processes by CPU and Memory:\n$(ps -eo pid,comm,%mem,%cpu --sort=-%mem | head -n 6)"
 
 		# End
